@@ -16,3 +16,7 @@ All projects below support [CrossingWatersNetwork.org](https://crossingwatersnet
 
 ## Skills
 Python, data cleaning and pipelines, GA4, Google Tag Manager, Data Studio, dashboard design, marketing automation, n8n, API integration, SEO, paid media, WordPress.
+
+## Contact
+- Email: [bertmonestine@gmail.com](mailto:bertmonestine@gmail.com)
+- Location: Melbourne, Florida (remote)
